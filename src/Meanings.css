@@ -1,0 +1,17 @@
+.Meanings h4 {
+    color: #ee0e51;
+    font-style: italic;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 1.5;
+}
+
+.Meanings .definition {
+    font-size: 18px;
+    font-weight: 450;
+}
+.Meanings .example {
+    font-size: 16px;
+    font-style: italic;
+    margin-top: 5px;
+}

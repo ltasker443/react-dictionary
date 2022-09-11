@@ -8,10 +8,10 @@ function App() {
     <div className="container">
     <div className="App">
       <header className="App-header">
-      <h1>Dictionary</h1>
+      <h1>dictionary</h1>
       </header>
       <main>
-        <Dictionary />
+        <Dictionary defaultKeyword="moon" />
       </main>
       <footer className="App-footer">
               <a href="https://github.com/ltasker443/react-dictionary" rel="noreferrer" target="_blank"> Open Source </a> by Laura Tasker & hosted on <a href="https://admirable-bunny-423ff4.netlify.app/" rel="noreferrer" target="_blank">Netlify</a>
