@@ -5,6 +5,9 @@ body {
 a {
     color: #ee0e51;
 }
+a:hover {
+    color:#363540;
+}
 
 h1 {
     color: #363540;
